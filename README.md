@@ -15,3 +15,7 @@ https://apireference.aspose.com/words/net
 
 https://apireference.aspose.com/pdf/net
 
+
+
+https://apireference.aspose.com/words/net/aspose.words.tables/row
+
