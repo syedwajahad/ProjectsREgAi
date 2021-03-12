@@ -8,6 +8,8 @@ https://docs.aspose.com/words/net/
 
 https://docs.aspose.com/pdf/net/
 
+https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai?action=enroll
+
 
 API Reference
 
